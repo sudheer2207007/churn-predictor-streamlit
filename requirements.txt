@@ -1,0 +1,10 @@
+streamlit>=1.35
+pandas
+numpy
+scikit-learn
+tensorflow>=2.12,<2.20
+streamlit>=1.26
+tensorflow>=2.12
+scikit-learn
+pandas
+numpy
